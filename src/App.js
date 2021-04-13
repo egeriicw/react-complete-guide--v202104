@@ -27,7 +27,7 @@ function App() {
   return (
     <div>
       <h2>Let's get started!</h2>
-      <Expenses className='expenses' expenses={expenses} />
+      <Expenses expenses={expenses} />
     </div>
   );
 }
