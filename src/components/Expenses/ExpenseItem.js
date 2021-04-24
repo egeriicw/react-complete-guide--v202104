@@ -14,7 +14,6 @@ const ExpenseItem = (props) => {
 
     // use array destructuring. 1st is a state value and the 2nd is the update function
     // const [title, setTitle] = useState(props.title);
-
     // const clickHandler = () => {
     //   setTitle("Updated!");
     //   console.log(title);
