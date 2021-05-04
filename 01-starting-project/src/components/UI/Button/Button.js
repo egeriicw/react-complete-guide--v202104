@@ -23,6 +23,10 @@ const Button = styled.button`
     border-color: #ac0e77;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.26);
   }
+
+  @media (min-width: 768px) {
+    width: auto;
+  }
 `;
 
 // const Button = props => {
